@@ -1,0 +1,61 @@
+//google ads
+
+https://ads.google.com/nav/multifactorauthalert?ocid=691878461&euid=385789432&__u=4095987768&uscid=
+691878461&__c=2417418389&authuser=0&dst=/aw/campaigns/new?ocid%3D691878461%26cmpnInfo%3D%257B%
+25228%2522:%2522a39590CFC-D873-463A-BFD8-C09B10C009A3--13%2522%257D%26ecl%3D403084684,403198485%26uscid%3D691878461%26__
+c%3D2417418389%26euid%3D385789432%26__u%3D4095987768&pli=1&block=true 
+
+//samline
+http://172.16.50.4/index.html
+//torentbd
+https://www.torrentbd.com/
+
+//result 
+http://www.educationboardresults.gov.bd/index.php?err=101
+
+//result with mark
+https://eboardresults.com/v2/home
+
+//convertor language
+https://www.banglaconverter.net/tools.php?f=Unicode-To-Bijoy
+
+//lottiefy animation
+https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app   vlo
+https://lottiefiles.com/getting-started
+//pickaso
+https://square.github.io/picasso/
+//goole adomb
+https://developers.google.com/admob/android/quick-start
+
+//netlify
+https://app.netlify.com/teams/foysalrabby/overview
+//java
+https://www.w3schools.com/java/java_inheritance.asp
+//w.shed.gov.bd
+https://www.mygov.bd/service/?id=BDGS-1611115830
+
+//MDB bootstrap
+https://mdbootstrap.com/docs/b4/jquery/javascript/notifications/
+
+//php laravel error
+https://stackoverflow.com/questions/60361906/package-laravel-ui-at-version-has-a-php-requirement-incompatible-with-your-php-v
+//canva
+https://www.canva.com/
+
+//gethub
+https://github.com/firebase/php-jwt
+
+//pdf edittor
+https://www.sejda.com/pdf-editor
+
+//image size remove
+https://tinyjpg.com/
+
+//image size resize
+https://www.countingcharacters.com/image-resizer-online#sectionbg
+
+//php firebase json token
+https://jwt.io/libraries
+
+//online playlist download
+https://youtubemultidownloader.net/
